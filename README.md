@@ -190,6 +190,27 @@ The **User Details** module allows users to manage all their personal and system
 </p>
 
 ---
+### 🧑‍💼 Sprint Responsibility
+
+The **Sprint Responsibility** module helps define and track key roles and responsibilities for each sprint, ensuring clarity and accountability within the team.
+
+- View sprint-wise responsibility configuration.
+- Displays:
+  - Sprint Number
+  - Start Date & End Date
+  - Sprint Duration
+- Assign and manage responsibilities for:
+  - **DSR Sending**
+  - **Data Matrix Owner**
+  - **Scrum Master**
+- Supports adding new sprint responsibility configurations.
+- Allows editing and deleting existing sprint responsibility records.
+- Helps ensure proper ownership and smooth sprint execution.
+
+<p align="center">
+    <img src="./screenshots/sprint-responsibility.png" width="300" />
+</p>
+
 
 ## 🏛️ Tech Used
 
