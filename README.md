@@ -223,7 +223,7 @@ The **Sprint Responsibility** module helps define and track key roles and respon
 - [JavaScript](https://javascript.info/)
 - [.NET Web API](https://learn.microsoft.com/en-us/aspnet/core/web-api/)
 - RESTful Services
-- SQL Server / DynamoDB
+- SQL Server 
 
 ---
 
