@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/your-username/project-management-system">
-        <img style="border-radius:12px" src="./screenshots/dashboard-overview.png" alt="Project Management System" width="400" height="300">
+        <img style="border-radius:12px" src="./ProjectManagement/screenshots/dashboard-complete.png" alt="Project Management System" width="400" height="300">
     </a>
 </p>
 
@@ -53,8 +53,8 @@ This system is designed to improve **productivity, transparency, and data manage
 - After login, users are redirected to the **Dashboard Overview**.
 
 <p align="center">
-    <img src="./screenshots/sign-up.png" width="300" />
-    <img src="./screenshots/sign-in.png" width="300" />
+    <img src="./ProjectManagement/screenshots/sign-up.png" width="300" />
+    <img src="./ProjectManagement/screenshots/sign-in.png" width="300" />
 </p>
 
 ---
@@ -80,15 +80,26 @@ The **User Details** module allows users to manage all their personal and system
 - Editable using **Add Details / Edit Details** options.
 
 <p align="center">
-    <img src="./screenshots/dashboard-incomplete.png" width="300" />
-    <img src="./screenshots/my-details-edit.png" width="300" />
-    <img src="./screenshots/dashboard-complete.png" width="300" />
-    <img src="./screenshots/my-details-view.png" width="300" />
+    <img src="./ProjectManagement/screenshots/dashboard-incomplete.png" width="300" />
+    <img src="./ProjectManagement/screenshots/my-details-edit.png" width="300" />
+    <img src="./ProjectManagement/screenshots/dashboard-complete.png" width="300" />
+    <img src="./ProjectManagement/screenshots/my-details-view.png" width="300" />
 </p>
 
 ---
 
 ## 📄 Application Modules
+---
+
+### 🚀 Sprint Velocity Tracker
+- Displays current sprint details and duration.
+- Shows total, completed, and in-progress story points.
+- Visual sprint velocity graph for performance analysis.
+
+<p align="center">
+    <img src="./ProjectManagement/screenshots/sprint-velocity.png" width="300" />
+</p>
+
 
 ### 📊 Sprint Task Management
 - Create and manage sprint-wise tasks.
@@ -102,20 +113,11 @@ The **User Details** module allows users to manage all their personal and system
 - Export sprint data to Excel.
 
 <p align="center">
-    <img src="./screenshots/sprint-task-management.png" width="300" />
-    <img src="./screenshots/add-new-task.png" width="300" />
+    <img src="./ProjectManagement/screenshots/sprint-task-management.png" width="300" />
+    <img src="./ProjectManagement/screenshots/add-new-task.png" width="300" />
 </p>
 
----
 
-### 🚀 Sprint Velocity Tracker
-- Displays current sprint details and duration.
-- Shows total, completed, and in-progress story points.
-- Visual sprint velocity graph for performance analysis.
-
-<p align="center">
-    <img src="./screenshots/sprint-velocity.png" width="300" />
-</p>
 
 ---
 
@@ -129,8 +131,8 @@ The **User Details** module allows users to manage all their personal and system
 - Displays leave history and balance.
 
 <p align="center">
-    <img src="./screenshots/apply-leave.png" width="300" />
-    <img src="./screenshots/leave-records.png" width="300" />
+    <img src="./ProjectManagement/screenshots/apply-leave.png" width="300" />
+    <img src="./ProjectManagement/screenshots/leave-records.png" width="300" />
 </p>
 
 ---
@@ -144,7 +146,7 @@ The **User Details** module allows users to manage all their personal and system
 - Search, edit, and delete tickets.
 
 <p align="center">
-    <img src="./screenshots/is-ticket-management.png" width="300" />
+    <img src="./ProjectManagement/screenshots/is-ticket-management.png" width="300" />
 </p>
 
 ---
@@ -158,8 +160,8 @@ The **User Details** module allows users to manage all their personal and system
 - Mark issues that caused delivery delays.
 
 <p align="center">
-    <img src="./screenshots/issues-faced-form.png" width="300" />
-    <img src="./screenshots/issues-faced-list.png" width="300" />
+    <img src="./ProjectManagement/screenshots/issues-faced-form.png" width="300" />
+    <img src="./ProjectManagement/screenshots/issues-faced-list.png" width="300" />
 </p>
 
 ---
@@ -173,8 +175,8 @@ The **User Details** module allows users to manage all their personal and system
 - Search and manage learning records.
 
 <p align="center">
-    <img src="./screenshots/learnings-list.png" width="300" />
-    <img src="./screenshots/add-learning.png" width="300" />
+    <img src="./ProjectManagement/screenshots/learnings-list.png" width="300" />
+    <img src="./ProjectManagement/screenshots/add-learning.png" width="300" />
 </p>
 
 ---
@@ -185,8 +187,8 @@ The **User Details** module allows users to manage all their personal and system
 - Store and access shared document links.
 
 <p align="center">
-    <img src="./screenshots/document-management.png" width="300" />
-    <img src="./screenshots/add-document.png" width="300" />
+    <img src="./ProjectManagement/screenshots/document-management.png" width="300" />
+    <img src="./ProjectManagement/screenshots/add-document.png" width="300" />
 </p>
 
 ---
@@ -208,7 +210,7 @@ The **Sprint Responsibility** module helps define and track key roles and respon
 - Helps ensure proper ownership and smooth sprint execution.
 
 <p align="center">
-    <img src="./screenshots/sprint-responsibility.png" width="300" />
+    <img src="./ProjectManagement/screenshots/sprint-responsibility.png" width="300" />
 </p>
 
 
